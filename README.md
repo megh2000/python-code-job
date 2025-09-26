@@ -1,0 +1,1 @@
+This project analyzes company ratings and reviews from a jobs dataset to understand hiring reputation, user satisfaction, and company comparisons. Using Python for cleaning and analysis, and Power BI for visualization, the project transforms raw job data into actionable insights.
